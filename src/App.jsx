@@ -1,7 +1,7 @@
 import About from "./components/About";
 import Hero from "./components/Hero";
 import NavBar from "./components/Navbar";
-import Prologue from "./components/Features";
+import Features from "./components/Features";
 import Nexus from "./components/Story";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
@@ -12,7 +12,7 @@ function App() {
       <NavBar />
       <Hero />
       <About />
-      <Prologue />
+      <Features />
       <Nexus />
       <Contact />
       <Footer />
